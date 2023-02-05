@@ -22,3 +22,4 @@ We used six different supervised machine learning models in order to determine i
 
 
 ## Summary
+We were able to see in all six models that they have precision when determing the high and low risks and low precision when it comes to high risks. If we were to focus solely on high risk (which is more important when handing out loans) we might be able to have better precision. All the models were fairly close in determining the risk factors, therefore I have no specific recommendation on a model to use. 
